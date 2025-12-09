@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\Administrator\Documents\VuGen\Scripts\Load_Project
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\administrator\documents\vugen\scripts\load_project\\logfile.log
-c:\users\administrator\documents\vugen\scripts\load_project\\combined_Load_Project.c
-c:\users\administrator\documents\vugen\scripts\load_project\\pre_cci.c
